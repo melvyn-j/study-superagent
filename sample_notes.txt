@@ -1,0 +1,7 @@
+The derivative measures the rate of change of a function.
+
+The chain rule is used when differentiating composite functions.
+
+The power rule states that the derivative of x^n is n*x^(n-1).
+0
+

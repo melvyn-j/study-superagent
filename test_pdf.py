@@ -1,0 +1,10 @@
+from services.pdf_loader import extract_text
+
+text = extract_text("sample.pdf")
+
+print(text[:1000])
+0
+0
+
+
+
